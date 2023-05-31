@@ -1,0 +1,73 @@
+.corpo{
+    background-color: #dc563d;
+    }
+    .menu{
+        background-color: #b40600;
+        height: 46px;
+    
+    }
+    .menu-dentro{
+        display: inline-block;
+        
+    
+    }
+    #logo{
+        height: 32px;
+        width: 48px;
+        border: solid black 1px;
+        margin-top: 6px;
+        margin-left: 6px;
+    }
+    #menu-letras{
+        font-size: 18px;
+        margin-left:55% ;
+      
+    }
+    #menu-letras2{
+     margin-left: 3% ;
+     font-size: 18px;
+    }
+    #menu-letras3{
+        margin-left: 3% ;
+        font-size: 18px;
+       }
+       #menu-letras4{
+        margin-left: 3% ;
+        font-size: 18px;
+       }
+    
+.fotosq{
+    background-color:#b51712;
+    display: inline-block;
+    width: 400px ;
+    height: 245px;
+    margin-left: 1%;
+    margin-right: 1%;
+   
+    
+}
+#cima1{
+    margin-left:3% ;
+    
+
+}
+#cima3{
+    margin-right: 1%;
+}
+.foto{
+    margin-top: 8px;
+    width: 154px;
+    height: 205px;
+    border: solid white 2px;
+    
+}
+.espaco-foto{
+    text-align: center;
+    border: solid black 2px;
+}
+.texto-foto{
+    text-align: center;
+    margin-top: -2px;
+    border: solid black 2px;
+    color: white;
+}

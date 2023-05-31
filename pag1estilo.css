@@ -1,0 +1,92 @@
+.corpo{
+background-color: #dc563d;
+}
+.menu{
+    background-color: #b40600;
+    height: 46px;
+
+}
+.menu-dentro{
+    display: inline-block;
+    
+
+}
+#logo{
+    height: 32px;
+    width: 48px;
+    border: solid black 1px;
+    margin-top: 6px;
+    margin-left: 6px;
+}
+#menu-letras{
+    font-size: 18px;
+    margin-left:55% ;
+  
+}
+#menu-letras2{
+ margin-left: 3% ;
+ font-size: 18px;
+}
+#menu-letras3{
+    margin-left: 3% ;
+    font-size: 18px;
+   }
+   #menu-letras4{
+    margin-left: 3% ;
+    font-size: 18px;
+   }
+   .foto-grande{
+    margin-left: 2%;
+    margin-right: 2%;
+    height: 265px;
+    width: 96%;
+    background-color: #BF0700;
+    text-align: center;
+    border: solid black 1px;
+    margin-top: -8px
+   }
+   #fotosg{
+    margin-top: 10px;
+   width: 183px;
+   height: 246px;
+  
+   }
+
+   .aba-fotos{
+    
+    width: 46%;
+    background-color: #b51712;
+    display: inline-block;
+    text-align: center;
+    border: solid black 1px;
+    height: 280px;
+    
+   }
+   #aba1{
+margin-left: 3%;
+margin-right: 1%;
+color: white
+
+
+   }
+   #aba2{
+    margin-left: 1%;
+    margin-right: 2%;
+    color: white
+
+}
+.fotosp{
+    text-align: center;
+    margin-top: -6px;
+}
+#fotop1{
+    height: 192px;
+    width: 142px;
+}
+#fotop2{
+    height: 192px;
+    width: 142px;
+}
+.fotos-pequenas{
+    margin-top: -8px;
+}

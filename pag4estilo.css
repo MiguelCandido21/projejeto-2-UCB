@@ -1,0 +1,82 @@
+.corpo{
+    background-color: #dc563d;
+    }
+    .menu{
+        background-color: #b40600;
+        height: 46px;
+    
+    }
+    .menu-dentro{
+        display: inline-block;
+        
+    
+    }
+    #logo{
+        height: 32px;
+        width: 48px;
+        border: solid black 1px;
+        margin-top: 6px;
+        margin-left: 6px;
+    }
+    #menu-letras{
+        font-size: 18px;
+        margin-left:55% ;
+      
+    }
+    #menu-letras2{
+     margin-left: 3% ;
+     font-size: 18px;
+    }
+    #menu-letras3{
+        margin-left: 3% ;
+        font-size: 18px;
+       }
+       #menu-letras4{
+        margin-left: 3% ;
+        font-size: 18px;
+       }
+       .Pagina{
+        margin-left: 2%;
+        margin-right: 2%;
+        width: 96%;
+       }
+       .completo{
+        background-color: #b40600;
+        height: 400px;
+        width: 40%;
+        margin-left: 30%;
+        margin-right: 30%;
+        text-align: center;
+        border: solid black 2px;
+       }
+       .letras{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: white;
+
+
+       }
+       .letras-cima{
+        
+
+       }
+       .letras-baixo{
+        margin-top: -8px;
+
+       }
+       .fotos{
+        width: 172px;
+        height: 232px;
+        border: solid white 2px;
+        
+       }
+       .fotos-espaço{
+        border: solid black 1px;
+        margin-top: -8px;
+       }
+       .fotos-pequena{
+        width: 232px;
+        height: 172px;
+        border: solid white 2px;
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }

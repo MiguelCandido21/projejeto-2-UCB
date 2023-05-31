@@ -1,0 +1,70 @@
+.corpo{
+    background-color: #dc563d;
+    }
+    .menu{
+        background-color: #b40600;
+        height: 46px;
+    
+    }
+    .menu-dentro{
+        display: inline-block;
+        
+    
+    }
+    #logo{
+        height: 32px;
+        width: 48px;
+        border: solid black 1px;
+        margin-top: 6px;
+        margin-left: 6px;
+    }
+    #menu-letras{
+        font-size: 18px;
+        margin-left:55% ;
+      
+    }
+    #menu-letras2{
+     margin-left: 3% ;
+     font-size: 18px;
+    }
+    #menu-letras3{
+        margin-left: 3% ;
+        font-size: 18px;
+       }
+       #menu-letras4{
+        margin-left: 3% ;
+        font-size: 18px;
+       }
+    .fale-conosco-espaco{
+        width: 96%;
+        margin-left: 2%;
+        margin-right: 2%;
+        
+    }
+    .dentro-fale{
+        background-color: rgb(255, 65, 65);
+       border: solid black 1px;
+    }
+    #esquerda-nome{
+        margin-left: 30%;
+    }
+    #direita-sobrenome{
+        margin-left: 22%;
+    }
+    #nome-aba{
+        margin-left: 30%;
+    }
+    #sobrenome-aba{
+        margin-left: 11%;
+    }
+    #mensagem{
+        margin-left: 30%;
+    }
+    #mensagem-cima{
+        margin-left: 30%;
+    }
+    #enviar{
+        background-color: green;
+        margin-left: 64%;
+    }
+    
